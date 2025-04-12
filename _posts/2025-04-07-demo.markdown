@@ -1,0 +1,18 @@
+---                                                                             
+layout: post                                                                    
+title:  "Project demo: An Intelligent Transportation System (ITS) Approach to Teletraffic Engineering"
+categories: update                                                              
+---                                                                             
+
+Here is a link to the demo video produced for this project.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHtVoarqt8M?si=f2CKH9UcnZx4bdGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Video description
+
+Thanks for watching!
+
+Papers mentioned (one with David Clark is [2]):
+[1] J. Liu et al., “Leveraging software-defined networking for security policy enforcement,” Information Sciences, vol. 327, pp. 288–299, Jan. 2016, doi: 10.1016/j.ins.2015.08.019.
+[2] A. Vahdat, D. Clark, and J. Rexford, “A Purpose-built Global Network: Google’s Move to SDN: A discussion with Amin Vahdat, David Clark, and Jennifer Rexford,” Queue, vol. 13, no. 8, pp. 100–125, Oct. 2015, doi: 10.1145/2838344.2856460.
+[3] Y. Liu, J. Hua, Y. Zhang, and S. Zhong, “GameTE: A Game-Theoretic Distributed Traffic Engineering in Trustless Multi-Domain SDN,” in 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), Jul. 2024, pp. 1248–1259. doi: 10.1109/ICDCS60910.2024.00118.
