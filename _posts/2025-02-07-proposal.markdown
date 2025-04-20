@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Project Proposal"
+categories: update 
+---
+You can view the project proposal embedded as a PDF below.
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/proposal.pdf" width="1000" height="1000" type="application/pdf"></object> 
