@@ -1,6 +1,6 @@
 ---                                                                             
 layout: post                                                                    
-title:  "Project demo: An Intelligent Transportation System (ITS) Approach to Teletraffic Engineering"
+title:  "Project Demo"
 categories: update                                                              
 ---                                                                             
 
