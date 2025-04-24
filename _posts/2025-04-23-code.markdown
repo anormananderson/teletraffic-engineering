@@ -1,0 +1,28 @@
+---                                                                             
+layout: post                                                                    
+title:  "Project Code"
+categories: update                                                              
+---                                                                             
+
+The full project code (for this site and the demo) is [available on GitHub](https://github.com/anormananderson/teletraffic-engineering).
+
+```
+.
+├── assets
+│   ├── code
+│   │   ├── controllers
+│   │   │   ├── comparison_controller.py
+│   │   │   └── proposed_controller.py
+│   │   └── topologies
+│   │       ├── comparison_topology.py
+│   │       └── proposed_topology.py
+```
+
+Both controllers are based on Liu et al.'s paper. The controllers and topologies are prefixed with `comparison` for the simple comparison, and `proposed` for the F- and S-switch version.
+
+The report contains more details on how to set up Mininet and run the comparison.
+
+For example, if you wanted to run the F- and S-switch version within Mininet:
+- Topology: `sudo -E mn --custom proposed_topology.py --topo proposed --mac --switch ovs --controller remote`
+- Controller: `ryu run proposed_controller.py`
+
