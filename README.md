@@ -6,4 +6,4 @@ This is a project site from the University of Victoria's Spring 2025 offering of
 
 ## How to use
 
-Currently, the easiest way to view the site is at its URL on the web, (<https://anormananderson.github.io/teletraffic-engineering>).
+Currently, the easiest way to view the site is at its URL on the web, (<https://anormananderson.github.io/teletraffic-engineering>). There are detailed installation instructions provided in my final report and the blog post about the project code.
